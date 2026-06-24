@@ -79,7 +79,7 @@ AI in QA              : AI-assisted testing, LLM workflows, test generation, sel
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="[YOUR_PORTFOLIO_URL](https://lakshitrajput.com/)">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
@@ -98,12 +98,3 @@ AI in QA              : AI-assisted testing, LLM workflows, test generation, sel
 
 ---
 
-<div align="center">
-
-### 💡 "Quality is not a phase. It is engineered into every release."
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=brightgreen\&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow\&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-```
