@@ -78,9 +78,6 @@ AI in QA              : AI-assisted testing, LLM workflows, test generation, sel
 
 ## 🌐 Connect With Me
 
-```md
-## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://lakshitrajput.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
