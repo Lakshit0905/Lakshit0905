@@ -1,13 +1,4 @@
-````md
-<div align="center">
 
-# Hi, I'm Lakshit Rajput 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+SDET+%7C+QA+Automation+Engineer;Playwright+%2B+TypeScript+Automation;API+Testing+%7C+CI%2FCD+Quality+Engineering;8%2B+Years+of+Testing+Experience;Building+Scalable+Test+Automation+Frameworks)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ## 🚀 About Me
 
