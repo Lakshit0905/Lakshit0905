@@ -1,94 +1,108 @@
-# Hi, I'm Lakshit Rajput 👋
+# Hi, I'm Lakshit Rajput 👋  
+## Senior SDET | QA Automation Engineer | Staff QE | QA Architect
 
-### Senior SDET | QA Automation Engineer | Playwright | TypeScript | API Testing | CI/CD
-
-I am a Senior SDET with 8+ years of experience building scalable automation frameworks, validating APIs, improving CI/CD quality gates, and increasing release confidence for enterprise applications.
-
-I specialize in **Playwright + TypeScript automation, API testing, test framework design, CI/CD integration, database validation, and quality engineering**.
+SDET with **8+ years of experience** building scalable test automation frameworks, API validation suites, CI/CD quality gates, and reliable regression pipelines. I focus on improving test stability, reducing flaky failures, validating backend workflows, and increasing release confidence across modern engineering teams.
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-662d91?style=for-the-badge&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0a9edc?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_Assured-6db33f?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pact-2c3e50?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-d22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Allure-ff6f61?style=for-the-badge&logoColor=white" />
-</p>
+### Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Programming
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![Pact](https://img.shields.io/badge/Pact-7B16FF?style=for-the-badge&logo=pact&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### CI/CD & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Database
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Reporting & Tools
+![Allure](https://img.shields.io/badge/Allure%20Reports-FF6A00?style=for-the-badge&logo=allure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### AI / Modern QA
+![AI Testing](https://img.shields.io/badge/AI--Assisted%20Testing-111827?style=for-the-badge&logo=openai&logoColor=white)
+![LLM QA](https://img.shields.io/badge/LLM--Based%20QA%20Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 🚀 Core Strengths
+## 🚀 Featured Projects
 
-- Designing scalable **Playwright + TypeScript** automation frameworks  
-- Building reliable **UI, API, smoke, regression, and E2E test suites**  
-- Creating CI/CD quality gates using **GitHub Actions, Jenkins, Docker, and AWS**  
-- Validating REST APIs, contracts, schemas, and backend data using **SQL**  
-- Reducing flaky tests through stable locators, retries, fixtures, and better test design  
-- Improving release confidence with reporting, debugging, and failure analysis  
+### 1. Playwright TypeScript E2E Automation Framework
+Scalable UI automation framework built with **Playwright + TypeScript** for end-to-end business workflow validation.
 
----
-
-## 📌 Featured Projects
-
-### 🏥 Healthcare API Automation Framework
-API automation framework using **Playwright API + TypeScript** for healthcare workflows such as patient, provider, appointment, claims, and pharmacy services.
-
-**Highlights:** API clients, auth handling, schema validation, reusable test data, Allure reports, GitHub Actions.
+**Highlights**
+- Page Object Model with reusable fixtures and test utilities  
+- Cross-browser regression execution  
+- Allure reporting with screenshots, traces, and failure logs  
+- GitHub Actions pipeline with Docker-based test execution  
+- Stable locator strategy to reduce flaky test failures  
 
 ---
 
-### 🎭 Playwright E2E Automation Framework
-Enterprise-style UI automation framework built with **Playwright + TypeScript**.
+### 2. Healthcare API Automation Framework
+API automation framework designed for validating healthcare-style workflows such as orders, inventory, patient-related data, and service integrations.
 
-**Highlights:** Page Object Model, fixtures, cross-browser tests, screenshots, traces, Docker execution, CI/CD pipeline.
+**Highlights**
+- Automated REST API validation using Playwright API and Postman-style flows  
+- Request/response schema validation  
+- SQL-based backend data verification  
+- Reusable test data setup and cleanup strategy  
+- CI-ready execution for smoke and regression API suites  
 
 ---
 
-### 🔗 API Contract Testing Framework
-Backend testing framework focused on API reliability and service-to-service validation.
+### 3. API Contract Testing Framework
+Consumer-driven contract testing framework built to validate service compatibility across microservices.
 
-**Highlights:** REST Assured, Pact contract testing, JSON validation, negative testing, SQL validation, Jenkins pipeline.
+**Highlights**
+- Pact-based contract tests for provider and consumer validation  
+- API compatibility checks before release  
+- CI/CD quality gate integration  
+- Clear reporting for contract failures  
+- Helps reduce backend integration defects before production  
 
 ---
 
 ## 🎯 Current Focus
 
-I am actively building projects around:
-
-- Playwright automation  
-- API testing frameworks  
-- CI/CD quality engineering  
-- Contract testing  
-- SQL data validation  
-- AI-assisted QA workflows  
+- Building production-style automation frameworks with Playwright, TypeScript, and API testing  
+- Improving CI/CD quality gates using GitHub Actions, Docker, and test reporting  
+- Reducing flaky tests through better framework design and test data isolation  
+- Strengthening contract testing, SQL validation, and backend quality coverage  
+- Exploring AI-assisted testing and LLM-based QA workflows  
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-- LinkedIn: `Add your LinkedIn URL`
-- Portfolio: `Add your portfolio URL`
-- Email: `Add your email`
-- Resume: `Add resume link`
+- **LinkedIn:** [Lakshit Rajput](https://www.linkedin.com/in/lakshit-rajput/)
+- **GitHub:** [@lakshit-rajput](https://github.com/lakshit-rajput)
+- **Email:** lakshit.rajput905@gmail.com
 
 ---
 
-> Building automation that improves quality, reduces risk, and helps teams release with confidence.
+### Quality Engineering Mindset
+
+> Build reliable frameworks. Test what matters. Catch defects early. Improve release confidence.
