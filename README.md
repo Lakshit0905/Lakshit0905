@@ -58,56 +58,10 @@ I work across **UI automation, API automation, database validation, CI/CD testin
   <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure reports" width="55" height="55"/>
 </p>
 
-## 🧩 Core Skills
-
-<div align="center">
-
-### Automation Frameworks
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/TestNG-FF6F00?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
-
-### Programming Languages
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-
-### API & Performance Testing
-<img src="https://img.shields.io/badge/Playwright_API-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=flat-square&logo=java&logoColor=white" />
+o=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Contract_Testing-5A29E4?style=flat-square&logo=pact&logoColor=white" />
 <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
 <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
-
-### CI/CD, Cloud & DevOps
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Quality_Gates-0A66C2?style=flat-square&logo=checkmarx&logoColor=white" />
-
-### Databases, Reporting & Tools
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Mainframe_DB2-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/Allure_Reports-FF4F00?style=flat-square&logo=allure&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-### Methodologies & AI in QA
-<img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
-<img src="https://img.shields.io/badge/Shift_Left_Testing-0A66C2?style=flat-square&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/UAT-6A5ACD?style=flat-square&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Assisted_Testing-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Self_Healing_Automation-FF6F00?style=flat-square&logo=robotframework&logoColor=white" />
-
 
 ## 🌐 Connect With Me
 
