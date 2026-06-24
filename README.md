@@ -1,195 +1,175 @@
+````md
+<div align="center">
+
 # Hi, I'm Lakshit Rajput 👋
 
-## Senior SDET | Test Automation Engineer | Playwright | API Testing | CI/CD Quality Engineering
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+SDET+%7C+QA+Automation+Engineer;Playwright+%2B+TypeScript+Automation;API+Testing+%7C+CI%2FCD+Quality+Engineering;8%2B+Years+of+Testing+Experience;Building+Scalable+Test+Automation+Frameworks)](https://git.io/typing-svg)
 
-I am a Senior Software Development Engineer in Test with **8+ years of experience** in building scalable test automation frameworks, API validation suites, CI/CD quality gates, and enterprise-level quality engineering solutions.
-
-I specialize in **Playwright + TypeScript automation**, API testing, contract testing, regression strategy, data validation, and building reliable automation pipelines that improve release confidence and reduce manual testing effort.
+</div>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- Build scalable **UI and API automation frameworks**
-- Design stable **Playwright + TypeScript test architecture**
-- Automate regression, smoke, integration, and E2E test coverage
-- Validate REST APIs, microservices, contracts, and backend workflows
-- Integrate automation into **GitHub Actions, Jenkins, Docker, and AWS**
-- Improve test reliability, reduce flaky failures, and speed up release cycles
-- Create automation reporting using **Allure, Jira, and CI logs**
+I'm a **Senior SDET / QA Automation Engineer** with **8+ years of experience** in **fintech, enterprise SaaS, and data platforms**. I specialize in building scalable test automation frameworks, API validation suites, CI/CD quality gates, and reliable regression testing pipelines.
+
+I work across **UI automation, API automation, database validation, CI/CD testing, and performance testing**, with strong hands-on experience in **Playwright, TypeScript, Selenium, REST Assured, Postman, Jenkins, GitHub Actions, Docker, SQL, and AWS EC2**.
+
+- 🔭 Currently focused on **Playwright + TypeScript automation frameworks**
+- 🧪 Experienced in **UI, API, regression, smoke, UAT, and data validation testing**
+- ⚙️ Building CI/CD-integrated automation using **GitHub Actions, Jenkins, Docker, and Allure Reports**
+- 📊 Strong background in **SQL Server, PostgreSQL, Mainframe DB2, and backend validation**
+- 🤖 Exploring **AI-assisted testing, LLM-based QA workflows, and intelligent test automation**
+- 💬 Ask me about **SDET, Playwright, API Testing, CI/CD, SQL validation, and automation frameworks**
+- 🎯 Goal: Building production-ready automation frameworks that improve release confidence
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### Automation & Frameworks
-
+### **Automation & Testing Frameworks**
 <p align="left">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="55" height="55"/>
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="postman" width="55" height="55"/>
 </p>
 
-### Languages
-
+### **Programming Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>
 </p>
 
-### API & Performance Testing
-
+### **API Testing & Performance Testing**
 <p align="left">
-  <img src="https://img.shields.io/badge/API_Testing-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contract_Testing-7B42BC?style=for-the-badge&logo=pact&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="postman" width="55" height="55"/>
+  <img src="https://rest-assured.io/img/logo-transparent.png" alt="rest assured" width="80" height="55"/>
+  <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="90" height="55"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/k6.svg" alt="k6" width="55" height="55"/>
 </p>
 
-### CI/CD, Cloud & DevOps
-
+### **CI/CD, DevOps & Cloud**
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="65" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="55" height="55"/>
 </p>
 
-### Databases & Test Data
-
+### **Databases & Reporting**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mainframe_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Validation-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-### Tools & Methodologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Allure_Reports-FD5A3E?style=for-the-badge&logo=allure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/UAT-6A1B9A?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="65" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="65" height="55"/>
+  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure reports" width="55" height="55"/>
 </p>
 
 ---
 
-## 💼 Professional Experience Highlights
+## 🧩 Core Skills
 
-- Architected scalable **Playwright + TypeScript automation frameworks** for UI and API regression testing.
-- Automated critical workflows across order management, inventory, pharmacy distribution, mortgage, and payment platforms.
-- Integrated Dockerized automation runs into **GitHub Actions and Jenkins pipelines**.
-- Reduced regression execution time through parallel test execution and CI/CD quality gates.
-- Built API validation coverage for REST services and microservices using **Playwright API, Postman, REST Assured, and Pact**.
-- Improved test stability by reducing flaky failures using stable locator strategies, retries, isolated test data, and reporting.
-- Performed SQL-based backend validation across **SQL Server, PostgreSQL, and Mainframe DB2**.
-- Collaborated with developers, product owners, business analysts, and QA teams in Agile sprint environments.
-
----
-
-## 📌 Featured Projects
-
-### Healthcare API Automation Framework
-
-A complete API automation framework using **Playwright + TypeScript** for healthcare-style microservices.
-
-**Includes:**
-
-- Patient API validation
-- Appointment API validation
-- Provider API validation
-- Pharmacy/order API validation
-- Token-based authentication
-- JSON schema validation
-- Negative test scenarios
-- CI execution using GitHub Actions
-- Allure reporting
+```txt
+Automation Frameworks : Playwright, Selenium WebDriver, Appium, Pytest, TestNG, Cucumber/Gherkin
+Languages             : TypeScript, JavaScript, Python, Java, SQL
+API Testing           : Playwright API, Postman, REST Assured, REST APIs, Contract Testing
+Performance Testing   : JMeter, k6
+CI/CD                 : GitHub Actions, Jenkins, Docker, Quality Gates
+Cloud & Infra         : AWS EC2, Dockerized Test Execution
+Databases             : SQL Server, PostgreSQL, Mainframe DB2
+Reporting & Tools     : Allure Reports, Jira, Git, GitHub
+Methodologies         : Agile, BDD, Shift-Left Testing, UAT, Regression Testing
+AI in QA              : AI-assisted testing, LLM workflows, test generation, self-healing automation
+````
 
 ---
 
-### Playwright E2E Automation Framework
+## 🚀 Featured Projects
 
-A scalable UI automation framework designed for enterprise regression testing.
+### 🧪 Playwright Healthcare API Automation Framework
 
-**Includes:**
+A production-style API automation framework built with **Playwright + TypeScript**, covering healthcare workflows such as patient registration, appointment booking, claims validation, and provider APIs.
 
-- Page Object Model
-- Fixtures
-- Test data management
-- Environment config
-- Parallel execution
-- Retry strategy
-- Screenshots and traces
-- Allure reports
-- GitHub Actions pipeline
+**Tech:** Playwright API, TypeScript, JSON Schema Validation, GitHub Actions, Allure Reports
 
 ---
 
-### API Contract Testing Framework
+### ⚙️ End-to-End UI Automation Framework
 
-A contract testing project focused on validating API compatibility between consumer and provider services.
+A scalable UI automation framework using **Playwright, TypeScript, Page Object Model, fixtures, reusable utilities, and CI/CD execution**.
 
-**Includes:**
+**Tech:** Playwright, TypeScript, POM, GitHub Actions, Docker, Allure
 
-- Pact contract tests
-- Provider verification
-- REST API validation
-- CI/CD integration
-- Contract failure reporting
+---
+
+### 📊 Database Validation Automation
+
+Automated backend data validation using SQL queries across relational databases to compare API responses, UI data, and backend records.
+
+**Tech:** SQL Server, PostgreSQL, DB2, Python/TypeScript, Data Validation
+
+---
+
+### 🤖 AI-Assisted QA Automation
+
+Experimenting with intelligent QA workflows using LLMs for test case generation, defect summaries, flaky test analysis, and regression insights.
+
+**Tech:** LLMs, Python, TypeScript, Test Automation, CI Analytics
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="420">
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 🏆 GitHub Trophies
 
-- Advanced Playwright automation architecture
-- API automation frameworks
-- Contract testing with Pact
-- CI/CD quality gates
-- AI-assisted testing workflows
-- Building strong SDET portfolio projects for top engineering companies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Activity Graph
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
 
 ---
 
-## ⭐ Personal Motto
+## 🌐 Connect With Me
 
-> Building reliable automation, stronger quality gates, and faster software delivery through modern SDET engineering.
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Quality is not a phase. It is engineered into every release."
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=brightgreen\&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow\&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+```
