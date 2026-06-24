@@ -1,8 +1,6 @@
-
-
 ## 🚀 About Me
 
-I'm a **Senior SDET / QA Automation Engineer** with **8+ years of experience** in **fintech, enterprise SaaS, and data platforms**. I specialize in building scalable test automation frameworks, API validation suites, CI/CD quality gates, and reliable regression testing pipelines.
+I'm a **Senior SDET / QA Automation Engineer** with **7+ years of experience** in **fintech, enterprise SaaS, and data platforms**. I specialize in building scalable test automation frameworks, API validation suites, CI/CD quality gates, and reliable regression testing pipelines.
 
 I work across **UI automation, API automation, database validation, CI/CD testing, and performance testing**, with strong hands-on experience in **Playwright, TypeScript, Selenium, REST Assured, Postman, Jenkins, GitHub Actions, Docker, SQL, and AWS EC2**.
 
