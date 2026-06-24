@@ -38,7 +38,6 @@ I work across **UI automation, API automation, database validation, CI/CD testin
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="postman" width="55" height="55"/>
   <img src="https://rest-assured.io/img/logo-transparent.png" alt="rest assured" width="80" height="55"/>
   <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="90" height="55"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/k6.svg" alt="k6" width="55" height="55"/>
 </p>
 
 ### **CI/CD, DevOps & Cloud**
