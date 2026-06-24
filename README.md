@@ -78,20 +78,25 @@ AI in QA              : AI-assisted testing, LLM workflows, test generation, sel
 
 ## 🌐 Connect With Me
 
+```md
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://lakshitrajput.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white" />
+  <a href="https://lakshitrajput.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/lakshitrajput/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/lakshitrajput/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Lakshit0905/">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://github.com/Lakshit0905" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="rajput.lakshit0905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:rajput.lakshit0905@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+```
+
 ```
 
 </div>
