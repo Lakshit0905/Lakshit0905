@@ -74,80 +74,25 @@ Reporting & Tools     : Allure Reports, Jira, Git, GitHub
 Methodologies         : Agile, BDD, Shift-Left Testing, UAT, Regression Testing
 AI in QA              : AI-assisted testing, LLM workflows, test generation, self-healing automation
 ````
-
----
-
-## 🚀 Featured Projects
-
-### 🧪 Playwright Healthcare API Automation Framework
-
-A production-style API automation framework built with **Playwright + TypeScript**, covering healthcare workflows such as patient registration, appointment booking, claims validation, and provider APIs.
-
-**Tech:** Playwright API, TypeScript, JSON Schema Validation, GitHub Actions, Allure Reports
-
----
-
-### ⚙️ End-to-End UI Automation Framework
-
-A scalable UI automation framework using **Playwright, TypeScript, Page Object Model, fixtures, reusable utilities, and CI/CD execution**.
-
-**Tech:** Playwright, TypeScript, POM, GitHub Actions, Docker, Allure
-
----
-
-### 📊 Database Validation Automation
-
-Automated backend data validation using SQL queries across relational databases to compare API responses, UI data, and backend records.
-
-**Tech:** SQL Server, PostgreSQL, DB2, Python/TypeScript, Data Validation
-
----
-
-### 🤖 AI-Assisted QA Automation
-
-Experimenting with intelligent QA workflows using LLMs for test case generation, defect summaries, flaky test analysis, and regression insights.
-
-**Tech:** LLMs, Python, TypeScript, Test Automation, CI Analytics
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="420">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
-
----
+```md
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+```
 
 </div>
 
