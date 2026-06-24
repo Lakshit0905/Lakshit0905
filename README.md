@@ -82,13 +82,13 @@ AI in QA              : AI-assisted testing, LLM workflows, test generation, sel
   <a href="https://lakshitrajput.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/lakshitrajput/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Lakshit0905/">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="rajput.lakshit0905@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
