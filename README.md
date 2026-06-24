@@ -92,11 +92,3 @@ AI in QA              : AI-assisted testing, LLM workflows, test generation, sel
   </a>
 </p>
 
-
-
-```
-
-</div>
-
----
-
