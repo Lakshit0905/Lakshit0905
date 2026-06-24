@@ -58,8 +58,6 @@ I work across **UI automation, API automation, database validation, CI/CD testin
   <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure reports" width="55" height="55"/>
 </p>
 
----
-```md
 ## 🧩 Core Skills
 
 <div align="center">
@@ -110,10 +108,6 @@ I work across **UI automation, API automation, database validation, CI/CD testin
 <img src="https://img.shields.io/badge/AI_Assisted_Testing-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Self_Healing_Automation-FF6F00?style=flat-square&logo=robotframework&logoColor=white" />
 
-</div>
-```
-
-````
 
 ## 🌐 Connect With Me
 
