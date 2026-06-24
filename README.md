@@ -58,11 +58,6 @@ I work across **UI automation, API automation, database validation, CI/CD testin
   <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure reports" width="55" height="55"/>
 </p>
 
-o=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Contract_Testing-5A29E4?style=flat-square&logo=pact&logoColor=white" />
-<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
-<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
-
 ## 🌐 Connect With Me
 
 <p align="center">
