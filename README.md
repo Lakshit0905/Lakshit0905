@@ -1,175 +1,67 @@
-Senior SDET Engineer with 7+ years of experience in test automation, quality engineering, and CI/CD-driven software delivery. Built scalable automation frameworks that reduced testing time by 70%, increased automation coverage to 90%+, and accelerated release cycles by 3x, helping reduce business and production support costs by over $250M annually. Skilled in Selenium, Playwright, Cypress, API testing, and AI-driven QA solutions, with a passion for delivering reliable, high-quality software products.
+# Hi, I'm Lakshit Rajput 👋
 
-📫 Let’s connect: rajput.lakshit0905@gmail.com
-
-
-
-
-# Hi, I'm Lakshit Rajput 👋  
 ### Senior SDET | QA Automation Engineer | Playwright | TypeScript | API Testing | CI/CD
 
-I am a Senior Software Development Engineer in Test with 8+ years of experience in **test automation, API validation, CI/CD quality engineering, and scalable QA frameworks**.
+I am an SDET with 8+ years of experience in test automation, API testing, CI/CD quality engineering, and scalable QA frameworks.
 
-I specialize in building reliable automation frameworks using **Playwright, TypeScript, Selenium, Appium, Pytest, REST Assured, Postman, Docker, GitHub Actions, Jenkins, and SQL-based data validation**.
+I build reliable automation frameworks, automate UI/API regression, improve test stability, and help teams release faster with confidence.
 
-My focus is on improving software quality through automation, reducing regression time, stabilizing test suites, and helping engineering teams release faster with confidence.
+---
+
+## 🧰 Skills & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-662d91?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0a9edc?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_Assured-6db33f?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-d22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 What I Do
 
-- Build scalable **UI and API automation frameworks**
-- Automate regression, smoke, sanity, and end-to-end test flows
-- Design CI/CD-integrated quality gates using GitHub Actions and Jenkins
-- Validate backend services using REST APIs, Postman, REST Assured, and Playwright API
-- Perform database validation using SQL Server, PostgreSQL, and Mainframe DB2
-- Improve test stability through better locators, reusable utilities, retry logic, and reporting
-- Create Allure reports, defect logs, screenshots, and CI failure analysis
-- Work closely with developers, product owners, and QA teams in Agile environments
-
----
-
-## 🧰 Tech Stack
-
-### Automation & Frameworks
-![Playwright](https://img.shields.io/badge/Playwright-TypeScript-green)
-![Selenium](https://img.shields.io/badge/Selenium-WebDriver-brightgreen)
-![Appium](https://img.shields.io/badge/Appium-Mobile%20Automation-purple)
-![Pytest](https://img.shields.io/badge/Pytest-Python-blue)
-![TestNG](https://img.shields.io/badge/TestNG-Java-red)
-![Cucumber](https://img.shields.io/badge/Cucumber-BDD-green)
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-![Java](https://img.shields.io/badge/Java-orange)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
-
-### API & Performance Testing
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
-![REST Assured](https://img.shields.io/badge/REST%20Assured-Java%20API%20Testing-red)
-![Playwright API](https://img.shields.io/badge/Playwright-API%20Testing-green)
-![JMeter](https://img.shields.io/badge/JMeter-Performance%20Testing-red)
-![Pact](https://img.shields.io/badge/Pact-Contract%20Testing-blue)
-
-### CI/CD & DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange)
-
-### Databases & Tools
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![DB2](https://img.shields.io/badge/Mainframe%20DB2-Database-lightgrey)
-![Jira](https://img.shields.io/badge/Jira-Agile%20Tracking-blue)
-![Allure](https://img.shields.io/badge/Allure-Test%20Reports-purple)
+- Build Playwright + TypeScript automation frameworks  
+- Automate UI, API, smoke, regression, and E2E tests  
+- Integrate automation into GitHub Actions, Jenkins, and Docker  
+- Validate REST APIs, contracts, and backend data using SQL  
+- Improve flaky tests, reporting, debugging, and release confidence  
 
 ---
 
 ## 📌 Featured Projects
 
-### 1. Healthcare API Automation Framework
-A complete API automation framework built using **Playwright API + TypeScript** for healthcare-style workflows such as patient registration, appointment booking, provider search, claims validation, pharmacy orders, and inventory services.
+### Healthcare API Automation Framework
+API automation framework using Playwright API + TypeScript for healthcare workflows.
 
-**Key Features:**
-- REST API automation using Playwright request context
-- Token-based authentication handling
-- Environment-based configuration
-- Reusable API clients
-- Schema validation
-- Positive and negative test scenarios
-- CI/CD execution using GitHub Actions
-- Allure reporting
-- Test data management
+### Playwright E2E Automation Framework
+Scalable UI automation framework with Page Object Model, fixtures, reporting, and CI/CD.
 
-**Tech Stack:** Playwright API, TypeScript, GitHub Actions, Allure, Docker
+### API Contract Testing Framework
+Backend validation framework using REST Assured, Pact, and SQL validation.
 
 ---
 
-### 2. Playwright E2E Automation Framework
-A scalable web automation framework designed for enterprise applications using **Playwright + TypeScript**.
+## 📫 Connect
 
-**Key Features:**
-- Page Object Model structure
-- Fixtures and reusable test utilities
-- Cross-browser execution
-- Parallel test execution
-- Screenshot and trace capture on failure
-- Allure reports
-- GitHub Actions pipeline
-- Dockerized execution
-
-**Tech Stack:** Playwright, TypeScript, Allure, GitHub Actions, Docker
+- LinkedIn: `Add your LinkedIn URL`
+- Portfolio: `Add your portfolio URL`
+- Email: `Add your email`
+- Resume: `Add resume link`
 
 ---
 
-### 3. API Contract Testing Framework
-A backend validation framework focused on API reliability and service-to-service contract testing.
-
-**Key Features:**
-- REST API validation
-- Contract testing using Pact
-- JSON schema validation
-- SQL data validation
-- Negative testing
-- CI/CD quality gates
-
-**Tech Stack:** REST Assured, Java, Pact, SQL, Jenkins
-
----
-
-### 4. Automated Data Validation Framework
-A database testing framework for validating data across source and target systems.
-
-**Key Features:**
-- SQL-based validation
-- Source-to-target comparison
-- Data integrity checks
-- Scheduled validation pipeline
-- Defect reporting support
-
-**Tech Stack:** SQL Server, PostgreSQL, DB2, Python, Jenkins
-
----
-
-## 📊 GitHub Focus Areas
-
-I am actively building projects around:
-
-- Playwright automation frameworks
-- API testing frameworks
-- Healthcare domain automation
-- CI/CD quality gates
-- Contract testing
-- SQL data validation
-- Test reporting and debugging utilities
-- AI-assisted QA workflows
-
----
-
-## 🎯 Career Focus
-
-I am currently focused on Senior SDET, Staff QE, and QA Architect roles where I can contribute to:
-
-- Automation framework design
-- API and microservices testing
-- CI/CD quality engineering
-- Test strategy
-- Scalable regression automation
-- Release quality improvement
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: `Add your LinkedIn URL here`
-- Portfolio: `Add your portfolio URL here`
-- Email: `Add your email here`
-- Resume: `Add resume link here`
-
----
-
-## ⭐ Motto
-
-> Build automation that gives teams confidence, not just test results.
+> Building automation that gives teams confidence, not just test results.
